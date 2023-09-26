@@ -2,11 +2,11 @@
     
     //UNITY STUFF
     var buildUrl = "Build";
-    var loaderUrl = buildUrl + "/1.0.14 WebGL Build.loader.js";
+    var loaderUrl = buildUrl + "/1.0.17 WebGL Build.loader.js";
     var config = {
-        dataUrl: buildUrl + "/1.0.14 WebGL Build.data",
-        frameworkUrl: buildUrl + "/1.0.14 WebGL Build.framework.js",
-        codeUrl: buildUrl + "/1.0.14 WebGL Build.wasm",
+        dataUrl: buildUrl + "/1.0.17 WebGL Build.data",
+        frameworkUrl: buildUrl + "/1.0.17 WebGL Build.framework.js",
+        codeUrl: buildUrl + "/1.0.17 WebGL Build.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Delphium",
         productName: "Delphic Chess",
